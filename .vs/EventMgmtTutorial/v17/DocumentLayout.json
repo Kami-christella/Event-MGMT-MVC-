@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|c:\\users\\kami\\source\\repos\\eventmgmttutorial\\eventmgmttutorial\\views\\eventdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|solutionrelative:eventmgmttutorial\\views\\eventdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|c:\\users\\kami\\source\\repos\\eventmgmttutorial\\eventmgmttutorial\\views\\eventdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|solutionrelative:eventmgmttutorial\\views\\eventdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|c:\\users\\kami\\source\\repos\\eventmgmttutorial\\eventmgmttutorial\\views\\eventtypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|solutionrelative:eventmgmttutorial\\views\\eventtypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|c:\\users\\kami\\source\\repos\\eventmgmttutorial\\eventmgmttutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|solutionrelative:eventmgmttutorial\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|c:\\users\\kami\\source\\repos\\eventmgmttutorial\\eventmgmttutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{81E61865-C015-4234-9581-C43E3E337EAE}|EventMgmtTutorial\\EventMgmtTutorial.csproj|solutionrelative:eventmgmttutorial\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\EventDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventMgmtTutorial\\Views\\EventDetails\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\EventDetails\\Create.cshtml",
+              "RelativeToolTip": "EventMgmtTutorial\\Views\\EventDetails\\Create.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T11:40:22.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\EventTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMgmtTutorial\\Views\\EventTypes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\EventTypes\\Index.cshtml",
+              "RelativeToolTip": "EventMgmtTutorial\\Views\\EventTypes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T11:19:27.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMgmtTutorial\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventMgmtTutorial\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T11:12:26.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\EventDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventMgmtTutorial\\Views\\EventDetails\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\EventDetails\\Index.cshtml",
+              "RelativeToolTip": "EventMgmtTutorial\\Views\\EventDetails\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T10:54:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventMgmtTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kami\\source\\repos\\EventMgmtTutorial\\EventMgmtTutorial\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventMgmtTutorial\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T13:17:46.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

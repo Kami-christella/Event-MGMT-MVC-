@@ -1,0 +1,35 @@
+﻿@model IEnumerable<EventMgmtTutorial.Models.EventDetail>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="row gap-3">
+
+    @foreach (var item in Model)
+    {
+
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title"> @Html.DisplayFor(modelItem => item.eventName)</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary">
+                    @Html.DisplayFor(modelItem => item.eventDate) at  @Html.DisplayFor(modelItem => item.eventTime)
+                </h6>
+                <p class="card-text">  @Html.DisplayFor(modelItem => item.eventDescription)</p>
+                <a href="#" class="card-link"> @Html.ActionLink("Edit", "Edit", new { id = item.uuid }) </a>
+                <a href="#" class="card-link"> @Html.ActionLink("View Details", "Details", new { id = item.uuid })</a>
+                <a href="#" class="card-link"> @Html.ActionLink("Delete", "Delete", new { id = item.uuid })</a>
+            </div>
+        </div>
+
+    }
+
+</div>
+
+
